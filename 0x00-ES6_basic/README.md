@@ -11,3 +11,6 @@ Illustrate the use of arrow functions.
 
 ## 3-default-parameter.js
 Illustrate use of default arguments.
+
+## 4-rest-parameter.js
+Illustrate use of the rest parameter syntax
