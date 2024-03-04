@@ -14,3 +14,6 @@ Illustrate use of default arguments.
 
 ## 4-rest-parameter.js
 Illustrate use of the rest parameter syntax
+
+## 5-spread-operator.js
+Illustrate use of the spread operator
