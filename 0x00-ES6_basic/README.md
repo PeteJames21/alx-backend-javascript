@@ -5,3 +5,6 @@ Illustrate use of `let` and `const`
 
 ## 1-block-scoped.js
 Illustrate prevention of overwriting of variables inside a conditional block where the variables have the same name as those in the outer scope.
+
+## 2-arrow.js
+Illustrate the use of arrow functions.
