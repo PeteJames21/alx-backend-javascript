@@ -22,4 +22,4 @@ Illustrate use of the spread operator
 Illustrate use of string templates.
 
 ## 7-getBudgetObject.js
-Illustrate of the Object property value shorthand syntax
+Illustrate the Object property value shorthand syntax
