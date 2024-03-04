@@ -30,3 +30,6 @@ with property names that are dynamically generated.
 
 ## 9-getFullBudget.js
 Illustrate create of object methods.
+
+## 10-loops.js
+Illustrate use of the `for...of` syntax in loops.
