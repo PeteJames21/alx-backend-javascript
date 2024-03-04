@@ -20,3 +20,6 @@ Illustrate use of the spread operator
 
 ## 6-string-interpolation.js
 Illustrate use of string templates.
+
+## 7-getBudgetObject.js
+Illustrate of the Object property value shorthand syntax
