@@ -33,3 +33,17 @@ Illustrate create of object methods.
 
 ## 10-loops.js
 Illustrate use of the `for...of` syntax in loops.
+
+## 11-createEmployeesObject.js
+Write a function named `createEmployeesObject` that will receive two arguments:
+- departmentName (String)
+- employees (Array of Strings)
+
+The function should return an object with the following format:
+```
+{
+     $departmentName: [
+          $employees,
+     ],
+}
+```
