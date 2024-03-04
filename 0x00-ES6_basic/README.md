@@ -49,3 +49,4 @@ The function should return an object with the following format:
 ```
 
 ## 12-createReportObject.js
+Count the number of keys in an object
