@@ -27,3 +27,6 @@ Illustrate the Object property value shorthand syntax
 ## 8-getBudgetCurrentYear.js
 Illustrate the use of ES6 computed property names, which allows an object to be created
 with property names that are dynamically generated.
+
+## 9-getFullBudget.js
+Illustrate create of object methods.
