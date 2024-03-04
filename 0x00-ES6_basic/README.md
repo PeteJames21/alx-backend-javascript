@@ -8,3 +8,6 @@ Illustrate prevention of overwriting of variables inside a conditional block whe
 
 ## 2-arrow.js
 Illustrate the use of arrow functions.
+
+## 3-default-parameter.js
+Illustrate use of default arguments.
