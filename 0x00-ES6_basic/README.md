@@ -17,3 +17,6 @@ Illustrate use of the rest parameter syntax
 
 ## 5-spread-operator.js
 Illustrate use of the spread operator
+
+## 6-string-interpolation.js
+Illustrate use of string templates.
