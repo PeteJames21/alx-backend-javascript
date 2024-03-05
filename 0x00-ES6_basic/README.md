@@ -53,3 +53,6 @@ Count the number of keys in an object
 
 ## 100-createIteratorObject.js
 Write a function named `createIteratorObject`, that will take into argument a report Object created with the previous function `createReportObject`. This function will return an iterator to go through every employee in every department.
+
+## 101-iterateThroughObject.js
+Write a function named `iterateThroughObject`. The function’s parameter `reportWithIterator` is the return value from `createIteratorObject`. It should return every employee name in a string, separated by `|`
