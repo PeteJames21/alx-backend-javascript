@@ -9,4 +9,5 @@ export default function handleProfileSignup() {
     const msg = `${result[0].body} ${result[1].firstName} ${result[1].lastName}`;
     console.log(msg);
   })
+  .catch(() => { console.log('Signup system offline'); });
 }
