@@ -11,3 +11,7 @@ Create a function `getListStudentIds` that returns an array of ids from a list o
 ## 2-get_students_by_loc.js
 
 Create a function `getStudentsByLocation` that returns an array of objects who are located in a specific city. It should accept a list of students (from `getListStudents`) and a `city` (string) as parameters.
+
+## 3-get_ids_sum.js
+
+Create a function `getStudentIdsSum` that returns the sum of all the student ids.
