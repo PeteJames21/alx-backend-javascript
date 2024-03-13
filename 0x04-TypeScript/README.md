@@ -30,3 +30,11 @@ Write a function printTeacher:
 - Example: `printTeacher("John", "Doe")` -> J. Doe
 
 Write an interface for the function named printTeacherFunction.
+
+## 4-main.ts
+
+Write a Class named `StudentClass`:
+
+- The constructor accepts `firstName`(string) and `lastName`(string) arguments
+- The class has a method named `workOnHomework` that return the string `Currently working`
+- The class has a method named `displayName`. It returns the `firstName` of the student
