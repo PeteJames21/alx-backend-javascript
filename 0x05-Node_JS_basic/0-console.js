@@ -1,7 +1,7 @@
 #!/usr/bin/node
 
-function displayMessage() {
-  process.stdout.write(`${process.argv[2]}\n`);
+function displayMessage(message) {
+  console.log(message);
 }
 
 module.exports = displayMessage;
