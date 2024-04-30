@@ -14,6 +14,7 @@ Create a program named `1-stdin.js` that will be executed through command line:
 - When the user ends the program, it should display `This important software is now closing` (followed by a new line)
 
 ## 2-read_file.js
+
 Using the database database.csv, create a function `countStudents` in the file 2-read_file.js
 
 - Create a function named `countStudents`. It should accept a path in argument
@@ -24,4 +25,14 @@ Using the database database.csv, create a function `countStudents` in the file 2
 - CSV file can contain empty lines (at the end) - and they are not a valid student!
 
 ## 3-read_file_async.js
+
 Same as `2-read_file.js`, but asynchronous
+
+## 4-http.js
+
+Create a small HTTP server using the `http` module:
+
+-It should be assigned to the variable `app` and this one must be exported
+
+- HTTP server should listen on port 1245
+- Displays `Hello Holberton School!` in the page body for any endpoint as plain text
